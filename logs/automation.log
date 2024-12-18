@@ -1,0 +1,14 @@
+21:30:12.200 [main] INFO  api.test.UserTests - ************creating user************
+21:30:19.747 [main] INFO  api.test.UserTests - ************created user************
+22:07:21.873 [main] INFO  api.test.UserTests2 - ************creating user************
+22:07:31.120 [main] INFO  api.test.UserTests2 - ************created user************
+22:29:45.163 [main] INFO  api.test.UserTests2 - ************creating user************
+22:29:54.010 [main] INFO  api.test.UserTests2 - ************created user************
+17:41:25.862 [main] INFO  api.test.UserTests2 - ************creating user************
+17:41:32.954 [main] INFO  api.test.UserTests2 - ************created user************
+12:25:04.860 [main] INFO  api.test.UserTests2 - ************creating user************
+12:25:09.609 [main] INFO  api.test.UserTests2 - ************created user************
+12:27:47.022 [main] INFO  api.test.UserTests2 - ************creating user************
+12:27:50.999 [main] INFO  api.test.UserTests2 - ************created user************
+12:34:09.199 [main] INFO  api.test.UserTests2 - ************creating user************
+12:34:13.390 [main] INFO  api.test.UserTests2 - ************created user************
